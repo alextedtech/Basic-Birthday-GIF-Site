@@ -61,6 +61,10 @@ h1, h2, h3, h4, p{
     background-size: cover;
 }
 
-.gift-img:hover{
+#happy-gif:hover{
     background-image:url("https://media.giphy.com/media/gj0QdZ9FgqGhOBNlFS/giphy.gif");
+}
+
+#dayum-gif:hover{
+    background-image: url("https://media.giphy.com/media/oYtVHSxngR3lC/giphy.gif");
 }
