@@ -68,3 +68,10 @@ h1, h2, h3, h4, p{
 #dayum-gif:hover{
     background-image: url("https://media.giphy.com/media/oYtVHSxngR3lC/giphy.gif");
 }
+
+#genius-gif:hover{
+    background-image: url("https://media.giphy.com/media/vNr3DRaqTZ6mWYfXv0/giphy.gif");
+}
+#badass-gif:hover{
+    background-image: url("https://giphy.com/clips/HrithikRoshan-fire-swag-slo-mo-walk-buxLMuuntO6l2gHylw");
+}
