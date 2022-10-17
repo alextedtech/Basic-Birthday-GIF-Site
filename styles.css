@@ -75,3 +75,9 @@ h1, h2, h3, h4, p{
 #badass-gif:hover{
     background-image: url("https://media.giphy.com/media/1hVi7JFFzplHW/giphy.gif ");
 }
+#gift-img-cheers{
+    height: 200px;
+}
+#gift-img-cheers:hover{
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+}   
